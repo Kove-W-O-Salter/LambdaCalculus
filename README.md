@@ -17,5 +17,5 @@ projects root directory:
 
 Now you should be able
 to import it via:
-`Data.LambdaCalculus`
+`LambdaCalculus`
 module.
