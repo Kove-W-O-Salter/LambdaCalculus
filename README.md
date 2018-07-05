@@ -1,5 +1,6 @@
 # LambdaCalculus
-A simple implementation of
+A simple - library -
+implementation of
 Alonzo Church's Lambda
 Calculus.
 
@@ -19,3 +20,30 @@ Now you should be able
 to import it via:
 `LambdaCalculus`
 module.
+
+## Usage
+LambdaCalculus is a
+library, hosting
+data-types and
+functions for
+building a 
+Lambda Calculus
+interpreter. See
+[the documentation]
+(https://github.com/Kove-W-O-Salter/LambdaCalculus/wiki).
+
+## Copyright
+Copyright (c)
+Kove W.
+Ochre-Salter,
+5th of July,
+2018. This
+library is
+free
+distributable,
+and, or,
+modifialbe
+under terms
+of the [MIT
+License]
+(https://github.com/Kove-W-O-Salter/LambdaCalculus/blob/master/LICENSE).
