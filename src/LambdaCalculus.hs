@@ -1,6 +1,6 @@
 
 {-
- - Copyright (c) Kove W. Ochre-Salter, 4th & 5th of July, 2018.
+ - Copyright (c) Kove W. Ochre-Salter, 5th of July, 2018.
  - A simple library implementation of Alonzo Church's
  - Lambda Calculus.
  -}
