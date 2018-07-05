@@ -43,4 +43,5 @@ distributable,
 and, or,
 modifialbe
 under terms
-of the [MIT License](https://github.com/Kove-W-O-Salter/LambdaCalculus/blob/master/LICENSE).
+of the [MIT License](https://github.com/Kove-W-O-Salter/LambdaCalculus/blob/master/LICENSE)
+(Not ready for use).
