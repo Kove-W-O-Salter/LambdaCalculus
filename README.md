@@ -29,7 +29,8 @@ functions for
 building a 
 Lambda Calculus
 interpreter. See
-[the documentation](https://github.com/Kove-W-O-Salter/LambdaCalculus/wiki).
+[the documentation](https://github.com/Kove-W-O-Salter/LambdaCalculus/wiki)
+(Not ready for use).
 
 ## Copyright
 Copyright (c)
@@ -43,5 +44,4 @@ distributable,
 and, or,
 modifialbe
 under terms
-of the [MIT License](https://github.com/Kove-W-O-Salter/LambdaCalculus/blob/master/LICENSE)
-(Not ready for use).
+of the [MIT License](https://github.com/Kove-W-O-Salter/LambdaCalculus/blob/master/LICENSE).
