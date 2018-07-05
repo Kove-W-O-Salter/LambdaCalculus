@@ -29,8 +29,7 @@ functions for
 building a 
 Lambda Calculus
 interpreter. See
-[the documentation](https://github.com/Kove-W-O-Salter/LambdaCalculus/wiki)
-(Not ready for use).
+[the documentation](https://github.com/Kove-W-O-Salter/LambdaCalculus/wiki).
 
 ## Copyright
 Copyright (c)
