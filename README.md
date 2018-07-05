@@ -1,6 +1,6 @@
 # LambdaCalculus
 <p align="center"> 
-<img src="https://github.com/Kove-W-O-Salter/LambdaCalculus/blob/master/LambdaCalculusIcon.png?raw=true">
+<img src="https://github.com/Kove-W-O-Salter/LambdaCalculus/blob/master/LambdaCalculusIcon.png">
 </p>
 A simple - library -
 implementation of
