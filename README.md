@@ -1,5 +1,7 @@
 # LambdaCalculus
-![alt text](https://github.com/Kove-W-O-Salter/LambdaCalculus/blob/master/LambdaCalculusIcon.png?raw=true "LambdaCalculusIcon")
+<p align="center"> 
+<img src="https://github.com/Kove-W-O-Salter/LambdaCalculus/blob/master/LambdaCalculusIcon.png?raw=true">
+</p>
 A simple - library -
 implementation of
 Alonzo Church's Lambda
